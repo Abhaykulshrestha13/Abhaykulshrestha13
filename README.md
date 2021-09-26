@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Connect with me:</h1>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/abhay-kulshrestha-7192121b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvpasricha" height="30" width="40" /></a>
   </div>
   </p>
