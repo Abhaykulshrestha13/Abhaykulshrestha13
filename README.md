@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<div align="center">
-<a href="https://www.linkedin.com/in/abhay-kulshrestha-7192121b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abhaykulshrestha13" height="30" width="40" /></a>
-  </div>
-  </p>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhaykulshrestha13&show_icons=true&title_color=#ffffff&text_color=fcf7f7&hide_border=false&locale=en" alt="Abhaykulshrestha13" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaykulshrestha13&" alt="Abhaykulshrestha13" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhaykulshrestha13&show_icons=true&locale=en&layout=compact" alt="Abhaykulshrestha13" /></p>
